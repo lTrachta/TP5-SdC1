@@ -1,0 +1,1 @@
+savedcmd_/home/ltrachta/TP5-SdC1/drv3/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ltrachta/TP5-SdC1/drv3/Module.symvers -T /home/ltrachta/TP5-SdC1/drv3/modules.order -i Module.symvers -e 
