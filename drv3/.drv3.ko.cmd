@@ -1,1 +1,0 @@
-savedcmd_/home/ltrachta/TP5-SdC1/drv3/drv3.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/ltrachta/TP5-SdC1/drv3/drv3.ko /home/ltrachta/TP5-SdC1/drv3/drv3.o /home/ltrachta/TP5-SdC1/drv3/drv3.mod.o
